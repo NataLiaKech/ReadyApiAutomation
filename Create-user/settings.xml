@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="4cf54677-6b3a-4c8f-bc6a-6797601145d8" wadlVersion="http://wadl.dev.java.net/2009/02" name="Create user" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="4cf54677-6b3a-4c8f-bc6a-6797601145d8fileName">Create-user</con:setting></con:settings><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>http://tekschool-test-env.herokuapp.com</con:endpoint></con:endpoints></con:interface>
